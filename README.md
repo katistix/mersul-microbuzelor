@@ -2,6 +2,8 @@
 
 > Get information about the bus schedule in Romania.
 
+<a href="https://www.buymeacoffee.com/katistix" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+
 This project is inspired by [IonicaBizau/mersul-trenurilor](https://github.com/IonicaBizau/mersul-trenurilor). And it uses [@IonicaBizau](https://github.com/IonicaBizau)'s [scrape-it](https://github.com/IonicaBizau/scrape-it) module to scrape the data from [autogari.ro](https://autogari.ro).
 
 ## :cloud: Installation
